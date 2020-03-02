@@ -3,6 +3,6 @@
     <title>V1.0.6 - Minor Fixes</title>
     <version>1.0.6.0</version>
     <url>https://github.com/goberse00/pku/releases/download/1.0.6.0/Release.zip</url>
-    <changelog></changelog>
+    <changelog>https://raw.githubusercontent.com/goberse00/pku/master/Changelog.txt</changelog>
     <mandatory>false</mandatory>
 </item>
