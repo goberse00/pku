@@ -1,6 +1,6 @@
 [v1.0.6.0]
-+Minor bug fixes
-+Renamed application, will be used for more than unit creation in the future.
-+Replaced Buff/Debuff status effect controls with buttons.
-  +Buttons open a new dialog that lets you further cutomize the status effect.
-+Started work on skill "abilities"
+·Minor bug fixes
+·Renamed application, will be used for more than unit creation in the future.
+·Replaced Buff/Debuff status effect controls with buttons.
+  ·Buttons open a new dialog that lets you further cutomize the status effect.
+·Started work on skill "abilities"
