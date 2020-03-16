@@ -8,7 +8,8 @@
 ·Implemented skill tree system.
   ·Each tree has it's own element, the active tree determines the unit's element.
   ·Pending setting the unit's type from skill tree.
-·Cleaned up the UI futher.
+·Re-made the Skill UI from the ground up.
+·Cleaned up the non-skill UI futher.
 ·Minor bug fixes.
 
 
