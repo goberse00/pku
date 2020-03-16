@@ -1,3 +1,17 @@
+[v1.2.0.0]
+·Full Skill System implementation with "abilities" system.
+  ·A skill is broken up into smaller components called abilities that define it's effects.
+  ·Implemented ability groups. A skill can have many groups working sequentially or concurrently.
+  ·Added 30+ abilities and more to come.
+·Automatic online upload of json file to server.
+·Added ~700 skill icons for development purposes.
+·Implemented skill tree system.
+  ·Each tree has it's own element, the active tree determines the unit's element.
+  ·Pending setting the unit's type from skill tree.
+·Cleaned up the UI futher.
+·Minor bug fixes.
+
+
 [v1.0.6.0]
 ·Minor bug fixes
 ·Renamed application, will be used for more than unit creation in the future.
