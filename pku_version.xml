@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <title>V1.0.6 - Minor Fixes</title>
-    <version>1.0.6.0</version>
+    <title>V1.2.0 - Full Skill System</title>
+    <version>1.2.0.0</version>
     <url>https://github.com/goberse00/pku/releases/download/1.0.6.0/Release.zip</url>
     <changelog>https://raw.githubusercontent.com/goberse00/pku/master/Changelog.txt</changelog>
     <mandatory>false</mandatory>
