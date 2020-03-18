@@ -1,4 +1,43 @@
-[v1.2.0.0]
+{v1.2.1.0}
+
+-[Added Triggers]-
+
+OnCounterAttack
+OnBuffRemovedSelf
+OnBuffRemovedAlly
+OnBuffRemovedEnemy
+OnDebuffRemovedSelf
+OnDebuffRemovedAlly
+OnDebuffRemovedEnemy
+OnSelfChangedForm
+OnAllyChangedForm
+OnEnemyChangedForm
+
+-[Added Abilities]-
+
+ExecuteOnHitsTaken
+EffectAtHpPercent
+
+-[Added Abilities]-
+
+DamageMultiFromHpRatio
+EffectAtHpPercent
+Transform
+
+-[Added Debuffs]-
+
+Grazing Hit - Same Rules as SW's "Glancing Hit"
+
+-[General]-
+
+Implemented transformation ability and pre-requisites
+Removed AbilityAtStacks (use EffectAtStacks instead, can drop either ability or effect)
+Fixed minor bug that could crash program if JSON value names had been changed.
+Removed 'Duplicate' from ability controls since you can already copy paste them.
+Changed the background color of outputs in abilities editor to better distinguish them.
+
+{v1.2.0.0}
+
 ·Full Skill System implementation with "abilities" system.
   ·A skill is broken up into smaller components called abilities that define it's effects.
   ·Implemented ability groups. A skill can have many groups working sequentially or concurrently.
