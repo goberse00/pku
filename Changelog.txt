@@ -17,9 +17,6 @@ OnEnemyChangedForm
 
 ExecuteOnHitsTaken
 EffectAtHpPercent
-
--[Added Abilities]-
-
 DamageMultiFromHpRatio
 EffectAtHpPercent
 Transform
