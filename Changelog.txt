@@ -1,42 +1,50 @@
+{v1.2.3.0}
+
+-[General]-
+>Switched local settings file to registry settings, program will now need admin permissions to run.
+ This prevents having to re-enter AuthToken and re-generating other settings after every version update.
+>Added 'SkillId' to skill ui next to skill name.
+>Skill controls from the 'Skill Trees' tab can now be copy/pasted.
+
 {v1.2.2.0}
 
 -[Targets]-
-Renamed 'AttackTarget' to 'Target'.
-Renamed 'AllEnemiesButTarget' to 'AllOtherEnemies'.
-Renamed 'RandomTarget' to 'RandomUnit'.
-Added 'Ally'
-Added 'OtherAlly'
-Added 'RandomAlly'
-Added 'RandomEnemy'
+>Renamed 'AttackTarget' to 'Target'.
+>Renamed 'AllEnemiesButTarget' to 'AllOtherEnemies'.
+>Renamed 'RandomTarget' to 'RandomUnit'.
+>Added 'Ally'
+>Added 'OtherAlly'
+>Added 'RandomAlly'
+>Added 'RandomEnemy'
 
 -[Triggers]-
 Added:
-OnAllyWasPoisoned
-OnAllyWasSilenced
-OnAllyWasWeakened
-OnAllyWasWounded
-OnAllyWasStunned
-OnAllyWasBroken
-OnAllyWasSnared
-OnAllyWasDazed
-OnEnemyWasPoisoned
-OnEnemyWasSilenced
-OnEnemyWasWeakened
-OnEnemyWasWounded
-OnEnemyWasStunned
-OnEnemyWasBroken
-OnEnemyWasSnared
-OnEnemyWasDazed
+>OnAllyWasPoisoned
+>OnAllyWasSilenced
+>OnAllyWasWeakened
+>OnAllyWasWounded
+>OnAllyWasStunned
+>OnAllyWasBroken
+>OnAllyWasSnared
+>OnAllyWasDazed
+>OnEnemyWasPoisoned
+>OnEnemyWasSilenced
+>OnEnemyWasWeakened
+>OnEnemyWasWounded
+>OnEnemyWasStunned
+>OnEnemyWasBroken
+>OnEnemyWasSnared
+>OnEnemyWasDazed
 
 -[Abilities]-
-Fixed 'ChainSkill' having wrong properties.
-Added extra properties to 'ExtraHit'
-Added success outputs to ApplyBuff/ApplyDebuff
+>Fixed 'ChainSkill' having wrong properties.
+>Added extra properties to 'ExtraHit'
+>Added success outputs to ApplyBuff/ApplyDebuff
 
 -[General]-
-Removed 'CritRateBonus' ability. (Use ApplyBuff instead)
-Added 'CanBeResisted' option to 'ApplyDebuff' ability. Default is true.
-Added the option to use the enemy's SPD and/or DEF for skill damage multipliers.
+>Removed 'CritRateBonus' ability. (Use ApplyBuff instead)
+>Added 'CanBeResisted' option to 'ApplyDebuff' ability. Default is true.
+>Added the option to use the enemy's SPD and/or DEF for skill damage multipliers.
 
 {v1.2.1.0}
 
