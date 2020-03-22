@@ -1,3 +1,22 @@
+{v1.2.4.0}
+
+-[Triggers]-
+>Added:
+OnSelfHpNonCritical,   (30%+)
+OnTargetHpNonCritical, (30%+)
+OnAllyHpNonCritical,   (30%+)
+
+
+-[Status Effects]-
+>Added 'Resist' to buffs. (Chance for unit to resist debuffs.)
+>Added 'DecreaseResist' to debuffs. 
+
+-[General]-
+>Fixed a few bugs that could crash the program if fields were left blank.
+>Fixed another couple of bugs that could crash the program.
+>ApplyDebuff "EndsOnSelfDeath" now defaults to false.
+>Adjusted values on 'DamageMultiFromHpRatio'. Some simplification for this ability in the future.
+
 {v1.2.3.0}
 
 -[General]-
