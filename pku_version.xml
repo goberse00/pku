@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <title>Update v1.2.3</title>
-    <version>1.2.3.0</version>
-    <url>https://github.com/goberse00/pku/releases/download/1.2.3.0/Release.zip</url>
+    <title>Update v1.2.4</title>
+    <version>1.2.4.0</version>
+    <url>https://github.com/goberse00/pku/releases/download/1.2.4.0/Release.zip</url>
     <changelog>https://raw.githubusercontent.com/goberse00/pku/master/Changelog.txt</changelog>
     <mandatory>false</mandatory>
 </item>
